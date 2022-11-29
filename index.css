@@ -38,8 +38,7 @@ p {
   font-size: 18px;
 }
 
-.view-icon,
-.nft-about h1,
+.view-icon,h1,
 .name {
   transition: 1s ease;
 }
@@ -102,7 +101,7 @@ body {
   margin-top: 40px;
 }
 
-.nft-about h1 {
+h1 {
   color: var(--white);
   margin-bottom: 20px;
   font-weight: 600;
@@ -163,7 +162,7 @@ body {
 }
 
 /* hover states  */
-.nft-about h1:hover,
+h1:hover,
 .user .name:hover {
   color: var(--cyan);
   cursor: pointer;
