@@ -5,13 +5,13 @@
 ## Layout
 
 # Active states
-![Active-states](./designs/active-states.jpg)
+![Active-states](./design/active-states.jpg)
 
 # Desktop design
-![Active-states](./designs/desktop-design.jpg)
+![Active-states](./design/desktop-design.jpg)
 
 # Mobile design
-![Active-states](./designs/mobile-design.jpg)
+![Active-states](./design/mobile-design.jpg)
 
 The designs were created to the following widths:
 
