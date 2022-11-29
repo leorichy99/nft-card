@@ -48,7 +48,7 @@ p {
 
 body {
   background: var(--very-dark-blue);
-  font-family: "Spartan";
+  font-family: "Outfit", sans-serif;
   overflow-x: hidden;
   min-height: 100vh;
 }
