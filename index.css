@@ -1,4 +1,4 @@
-/* @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;400&family=Roboto:wght@100&family=Spartan:wght@500&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100;400&family=Roboto:wght@100&family=Spartan:wght@500&display=swap");
 
 *,
 *::before,
@@ -79,7 +79,7 @@ body {
   height: 300px;
   width: 100%;
   border-radius: 15px;
-  background: url("/images/image-equilibrium.jpg") center center / cover no-repeat;
+  background: url("./images/image-equilibrium.jpg") center center / cover no-repeat;
 }
 
 .view-icon {
